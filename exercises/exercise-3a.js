@@ -8,5 +8,6 @@
  * @returns {string} The name in format "Jane Doe"
  */
 export function nameTag(lastfirst) {
-  // TODO
+  const parts = lastfirst.split(',')
+  return parts[1] + ' ' + parts[0]
 }

@@ -8,5 +8,8 @@
  * @returns {string[]} An array of only .jpg and .png files
  */
 export function imageFiles(filenames) {
-  // TODO
+  return filenames.filter(f => {
+    const ext = f.split('.')[1]
+    return ['jpg', 'png'].includes(ext)
+  })
 }

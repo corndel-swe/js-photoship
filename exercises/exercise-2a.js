@@ -7,5 +7,9 @@
  * @returns {Array} The array with first and last element swapped
  */
 export function swapFirstLast(arr) {
-  // TODO
+  const first = arr.shift()
+  const last = arr.pop()
+  arr.push(first)
+  arr.unshift(last)
+  return arr
 }
