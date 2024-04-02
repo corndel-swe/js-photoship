@@ -70,4 +70,16 @@ program
   .description('RGB to BRG')
   .action(filename => convertRGB(filename, pixels.rotate))
 
+// Luminosity grayscale
+program
+  .command('luminosity-grayscale <filename>')
+  .description('Convert to grayscale, preserving colour luminosity')
+  .action(filename => convertRGB(filename, pixels.luminosityGrayscale))
+
+// Luminosity grayscale
+program
+  .command('posterize <filename>')
+  .description('Reduce number of colours in the image')
+  .action(filename => convertRGB(filename, pixels.posterize))
+
 program.parse(process.argv)
