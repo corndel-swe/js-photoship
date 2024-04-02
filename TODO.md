@@ -14,7 +14,7 @@
 
 - [x] Complete `lib > pixels > colorChannel()`
 
-- [ ] Complete `lib > pixels > sepia()`
+- [x] Complete `lib > pixels > sepia()`
 
 - [ ] Complete `lib > pixels > adjustBrightness()`
 
