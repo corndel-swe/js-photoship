@@ -6,7 +6,7 @@
 
 - [x] Complete `lib > pixels > stripBlue()`
 
-- [ ] Complete `lib > pixels > invert()`
+- [x] Complete `lib > pixels > invert()`
 
 - [ ] Complete `lib > pixels > grayScale()`
 
