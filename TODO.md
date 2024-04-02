@@ -10,7 +10,7 @@
 
 - [x] Complete `lib > pixels > grayScale()`
 
-- [ ] Complete `lib > pixels > blackAndWhite()`
+- [x] Complete `lib > pixels > blackAndWhite()`
 
 - [ ] Complete `lib > pixels > colorChannel()`
 
