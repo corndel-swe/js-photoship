@@ -16,7 +16,7 @@
 
 - [x] Complete `lib > pixels > sepia()`
 
-- [ ] Complete `lib > pixels > adjustBrightness()`
+- [x] Complete `lib > pixels > adjustBrightness()`
 
 ## Backlog
 
