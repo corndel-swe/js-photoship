@@ -8,7 +8,7 @@
 
 - [x] Complete `lib > pixels > invert()`
 
-- [ ] Complete `lib > pixels > grayScale()`
+- [x] Complete `lib > pixels > grayScale()`
 
 - [ ] Complete `lib > pixels > blackAndWhite()`
 
