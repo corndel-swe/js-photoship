@@ -12,7 +12,7 @@
 
 - [x] Complete `lib > pixels > blackAndWhite()`
 
-- [ ] Complete `lib > pixels > colorChannel()`
+- [x] Complete `lib > pixels > colorChannel()`
 
 - [ ] Complete `lib > pixels > sepia()`
 
